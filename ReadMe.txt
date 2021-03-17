@@ -9,11 +9,11 @@ Linked List Implementation: (C) Nico Thuniot 2021 [Private Repository on GitHub]
   Implement Sync-Object for Locks
   in these Sections Task/Threads cannot intersect each other
   Other Options: Immutables
-- [x] UnitTests (Teilweise erledigt)
+- [x] UnitTests (partially done)
 
-Notizen:
+Notices:
 
-In which order should list be cleared -> Answer GetEnumerator() Disposen
+In which order should list be cleared -> Answer: Dispose GetEnumerator()
 
 
 Locks:
