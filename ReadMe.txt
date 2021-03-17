@@ -1,4 +1,4 @@
-Linked List Implementation: (C) Nico Thuniot 2021
+Linked List Implementation: (C) Nico Thuniot 2021 [Private Repository on GitHub]
 
 - [x] Generisch
 - [x] IEnumerable (Enumerate through elements)
